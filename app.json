@@ -1,0 +1,12 @@
+{
+  "name": "redux-workshop",
+  "displayName": "redux-workshop",
+  "expo": {
+    "name": "redux-workshop",
+    "slug": "redux-workshop",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
